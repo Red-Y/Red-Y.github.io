@@ -20,15 +20,15 @@
 
 ### 购买方式
 
-扫码付款对应金额，并**备注你的邮箱**，将通过邮箱发货给您
+保存并扫码付款对应金额，并**备注你的邮箱**，将通过邮箱发货给您
 
 ##### 微信:
 
-<img src="wx.jpg" width="50%" height="50% align=center> 
+<img src="wx.jpg" width="25%" height="25%"> 
 
 ##### 支付宝:
 
-<img src="zfb.jpg" width="50%" height="50% align=center>
+<img src="zfb.jpg" width="25%" height="25%">
 
 ### 售后服务
 Email to red_yx@qq.com
