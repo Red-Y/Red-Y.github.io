@@ -22,8 +22,14 @@
 
 扫码付款对应金额，并**备注你的邮箱**，将通过邮箱发货给您
 
-##### 微信:![本地路径](wx.jpg "相对路径演示") 
-##### 支付宝:![本地路径](zfb.jpg "相对路径演示") 
+##### 微信:
+
+<img src="wx.jpg" width="50%" height="50% align=center> 
+
+##### 支付宝:
+
+<img src="zfb.jpg" width="50%" height="50% align=center>
+
 ### 售后服务
 Email to red_yx@qq.com
 若您忘记备注邮箱，也可**将*付款截图*发送给此的邮箱**，也将为您发货
